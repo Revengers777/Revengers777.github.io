@@ -1,0 +1,5 @@
+title: "Mi Página Web"
+description: "Una página web creada con Jekyll y GitHub Pages"
+baseurl: "" # Déjalo vacío si el sitio está en la raíz del repositorio
+url: "https://tuusuario.github.io" # Cambia "tuusuario" por tu nombre de usuario de GitHub
+theme: minima # Tema predeterminado de Jekyll
